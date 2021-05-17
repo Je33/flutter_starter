@@ -1,6 +1,6 @@
-# cryptopia
+# Flutter starter template
 
-Cryptopia peer 2 peer exchange sevice
+Starter template based on flutter for cross platform development
 
 ## Getting Started
 
